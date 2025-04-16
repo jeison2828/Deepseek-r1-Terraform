@@ -1,4 +1,5 @@
-# Deepseek-r1-Terraform
+# Deploying Deepseek-r1 with Terraform using Huawei Cloud in Mexico 2 region
+
 Functional example of how to deploy Deepseek through Terraform, using Ollama and Dify
 
 - In the providers section update the keys to achieve a successful connection
